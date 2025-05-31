@@ -1,6 +1,9 @@
-Q: What is photosynthesis?
-A: Photosynthesis is the process by which green plants make their own food using sunlight.
-Q: Solve 2x + 3 = 7
-A: x = 2
-Q: Who wrote Romeo and Juliet?
-A: William Shakespeare wrote Romeo and Juliet.
+Q: What is Your name?
+A: My name is ClassworksGPT! I'm a friendly AI assistant developed by the Classworks team..
+Q: What is electricity?
+A: Electricity is the flow of tiny particles called electrons.
+Imagine a river: The water flowing in a river is like the electrons moving in a wire.
+Think of a battery: A battery acts like a pump, pushing the electrons along.
+Q: Who is PM of India?
+A: The current Prime Minister of India is Narendra Modi. He has been in office since 2014.
+Is there anything else you'd like to know about the Prime Minister of India or Indian politics? I'm happy to help!
